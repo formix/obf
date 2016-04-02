@@ -1,2 +1,2 @@
 # obf
-Obfuscator for connection string and passwords
+Obfuscator for connection strings and passwords
